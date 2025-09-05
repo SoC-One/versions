@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/SoC-One/BitForge/releases/download/v1.104.0/bitforge-reh-linux-x64-1.104.05931.tar.gz",
-  "name": "1.104.05931",
-  "version": "8801c83e243dde95f4f3421c495602bb2ff68e2d",
-  "productVersion": "1.104.05931.0",
-  "hash": "81ad5c21abc97bac53f1fbe0c9453950d8478e0f",
-  "timestamp": "1756957393632",
-  "sha256hash": "32dcf38ecb1986e7c159d39dd5a6658831510236980725114fa0f93e46d70e54"
+  "url": "https://github.com/SoC-One/BitForge/releases/download/1.103.25961/bitforge-linux-x64-1.103.25961.tar.gz",
+  "name": "1.103.25961",
+  "version": "3828ce836383c61ae5cc2eae390c0a64173087f0",
+  "productVersion": "1.103.25961",
+  "hash": "175cd24823d88703a50a99d3b83026ea942907f2",
+  "timestamp": "1757041669649",
+  "sha256hash": "68b96ce3f138c4798f73460b4ed0900b699c8ef811b1d95c8f280c006c60cedf"
 }
