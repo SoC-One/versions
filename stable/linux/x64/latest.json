@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/SoC-One/BitForge/releases/download/1.103.25961/bitforge-linux-x64-1.103.25961.tar.gz",
+  "url": "https://github.com/SoC-One/BitForge/releases/download/1.103.25961/VSCodium-linux-x64-1.103.25961.tar.gz",
   "name": "1.103.25961",
   "version": "3828ce836383c61ae5cc2eae390c0a64173087f0",
   "productVersion": "1.103.25961",
-  "hash": "001f661752adee28eeb326e4d9b2f110b8e202b9",
-  "timestamp": "1757042567493",
-  "sha256hash": "83461e5b3363fe49a24460effd9e91ce41dfc41098f36f9919eebb8d229afdc1"
+  "hash": "f18b8c7e7b7a83f2bfb93ad6b8d97d7e3f6e1d62",
+  "timestamp": "1757043620116",
+  "sha256hash": "cc69a331d179d7092529be36d7837b3ef7bc0388f1f43c8084392406c855d6cf"
 }
