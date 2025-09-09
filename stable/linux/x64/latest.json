@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/SoC-One/BitForge/releases/download/1.103.26049/BitForge-linux-x64-1.103.26049.tar.gz",
-  "name": "1.103.26049",
-  "version": "f8689a2fb2085399f4cb35c078d67943ef018a91",
-  "productVersion": "1.103.26049.0",
-  "hash": "27b2f0dc2ffe4145b3c2499c30fdd096d1642ace",
-  "timestamp": "1757380830018",
-  "sha256hash": "04f59931fc41a54efc73f45a2e56ebb57d64ca83ee1c95549a3091b3e6c7d47a"
+  "url": "https://github.com/SoC-One/BitForge/releases/download/1.103.26063/BitForge-linux-x64-1.103.26063.tar.gz",
+  "name": "1.103.26063",
+  "version": "6aee762fe7fe9c77190f097087a0b20de58b9136",
+  "productVersion": "1.103.26063.0",
+  "hash": "d7bfd9cbb12646111b3e51b35337933df99ee48f",
+  "timestamp": "1757407985563",
+  "sha256hash": "9b873b0043708edbb93b5c5aed16b36739c3a7d317963d2865b4c954c07b506f"
 }
